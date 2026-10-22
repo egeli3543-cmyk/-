@@ -2,7 +2,7 @@
 Резюме в облачном сервисе 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Вячеслав%20Втюрин&fontSize=42&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20%7C%20Student%20УрГЭУ&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Вячеслав%20Втюрин&fontSize=42&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20%7C%20Студент%20УрГЭУ&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
