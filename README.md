@@ -69,33 +69,7 @@ status:      Открыт к сотрудничеству ✅
 
 ---
 
-## 📊 GitHub Статистика
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=egeli3543-cmykE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egeli3543-cmyk&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e94560&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=egeli3543-cmyk&theme=tokyonight&hide_border=true&background=0D1117&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📈 График активности
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=egeli3543-cmyk&bg_color=0D1117&color=e94560&line=e94560&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 📬 Контакты
 
